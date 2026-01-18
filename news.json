@@ -1,17 +1,14 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-01-18",
   "news": [
     {
-      "id": "unique-id",
-      "version": "1.0",
-      "date": "18. JAN.",
-      "day": "SUNDAY",
+      "id": "velocity-release",
+      "timestamp": "2026-01-18T12:00:00Z",
       "title": "Velocity Release",
       "category": "RELEASE",
       "image": "https://i.imgur.com/l9qugjA.png",
       "summary": "Welcome to Velocity",
-      "description": "Welcome to verlocity the Open Source Game Launcher that is like steam",
+      "description": "Welcome to Velocity the Open Source Game Launcher that is like steam",
       "likes": 0,
       "comments": 0
     }
