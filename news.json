@@ -2,6 +2,17 @@
   "version": "1.0",
   "news": [
     {
+      "id": "velocity-beta-notice",
+      "timestamp": "2026-01-18T14:00:00Z",
+      "title": "Velocity is still in Development",
+      "category": "INFO",
+      "image": "https://i.imgur.com/l9qugjA.png",
+      "summary": "Please note: Velocity is not finished yet!",
+      "description": "Velocity is still in active development. There are some known issues and missing features. We're working on it! Feedback and bug reports are welcome.",
+      "likes": 0,
+      "comments": 0
+    },
+    {
       "id": "velocity-release",
       "timestamp": "2026-01-18T12:00:00Z",
       "title": "Velocity Release",
